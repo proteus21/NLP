@@ -1,2 +1,2 @@
 # NLP PROJECTS:
-1) Sentiment Analysat
+1) Sentiment Analyzer - VADER library
