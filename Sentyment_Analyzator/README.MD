@@ -1,5 +1,5 @@
 
-##Sentiment Analyzer - GUI- PYQT5 - VADER Sentyment Analysis library
+## Sentiment Analyzer - GUI- PYQT5 - VADER Sentyment Analysis library
 
 Small info:
 
