@@ -1,4 +1,4 @@
-###Symptom2Disease
+### Symptom2Disease
 
 Diseases and Natural Language Symptom Descriptions
 
