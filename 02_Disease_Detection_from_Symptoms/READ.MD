@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/niyarrbarman/symptom2disease
 
 APPLICATION GUI
 
-<img src="https://github.com/proteus21/NLP/blob/main/Sentyment_Analyzator/Source/NLP1.JPG?raw=true" width="300" height ="400">
+<img src="https://github.com/proteus21/NLP/blob/main/02_Disease_Detection_from_Symptoms/APP/GUI/Symptoms.JPG?raw=true" width="300" height ="400">
 
 
 
