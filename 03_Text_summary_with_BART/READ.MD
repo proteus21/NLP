@@ -6,7 +6,7 @@ GUI with Flask use BART library.
 
 GUI APPLICATION
 
-<img src="https://github.com/proteus21/NLP/blob/main/02_Disease_Detection_from_Symptoms/APP/GUI/Symptoms.JPG?raw=true" width="500" height ="400">
+<img src="https://github.com/proteus21/NLP/blob/main/03_Text_summary_with_BART/GUI/Summary%20text.JPG?raw=true" width="500" height ="400">
 
 
 
