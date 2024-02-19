@@ -5,3 +5,4 @@
 4) Hate speech classification -| ML analyse|
 5) Spam text classification - |ML analyse |
 6) Sentiment Analysis -IMDB Movies -|ML analyse|
+7) Multi-Label Text Classification -|ML analyse|
