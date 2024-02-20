@@ -6,3 +6,4 @@
 5) Spam text classification - |ML analyse |
 6) Sentiment Analysis -IMDB Movies -|ML analyse|
 7) Multi-Label Text Classification -|ML analyse|
+8) Word embidding (Word2VEC) -|ML analyse|
