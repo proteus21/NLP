@@ -9,3 +9,4 @@
 6) Multi-Label Text Classification -|ML analyse|
 7) Word embidding (Word2VEC) -|ML analyse|
 8) Glove Vectors - Emotion Recognition -|ML analyse|
+9) Disaster tweetter classification -|ML analyse|
