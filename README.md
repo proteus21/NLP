@@ -1,5 +1,6 @@
 # NLP PROJECTS:
 
+Project in the range of NLP
 1) Sentiment Analyzer - VADER library |PYQT5 GUI|
 1) Sentiment Analysis -IMDB Movies -|ML analyse|
 2) Disease Detection for Symptoms - Spacy |ML analyse| Flask GUI|
